@@ -32,7 +32,9 @@ Spring (Spring Boot, Spring Cloud Streams).
 
 ## Modelo e-commerce web
 
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/Paucinha/assets/blob/master/Web%201.png?raw=true)
+
+![Web 2](https://github.com/Paucinha/assets/blob/master/Web%202.png?raw=true)
 
 # Tecnologias utilizadas
 ## BackEnd
