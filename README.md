@@ -30,6 +30,10 @@ Spring (Spring Boot, Spring Cloud Streams).
 
 (Microsserviços, Spring, Apache Kafka, Apache Avro, Schema Registry)
 
+## Modelo e-commerce web
+
+![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+
 # Tecnologias utilizadas
 ## BackEnd
 - Java
@@ -37,11 +41,13 @@ Spring (Spring Boot, Spring Cloud Streams).
 - JPA / Hibernate
 - Gradle
 - Banco de dados: Postgresql
+- Postman
 - IntelliJ
 
 ## Front end
 - HTML / CSS / JS
 - Bootstrap
+- IntelliJ
 
 # Como executar o projeto
 
