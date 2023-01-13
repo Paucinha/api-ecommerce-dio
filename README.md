@@ -51,10 +51,11 @@ Spring (Spring Boot, Spring Cloud Streams).
 - Bootstrap
 - IntelliJ
 
-# Como executar o projeto
+## Para executar o projeto os Pré-requisitos:
 
-## Back end
-Pré-requisitos: Java 11
+- Java 11
+- Gradle
+- ...
 
 ##
 
