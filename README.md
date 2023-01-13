@@ -53,9 +53,9 @@ Spring (Spring Boot, Spring Cloud Streams).
 
 ## Para executar o projeto os Pré-requisitos:
 
-- Java 11
-- Gradle
-- ...
+- Java 8 ou versões superiores
+- Gradle 5.3.1 ou versões superiores
+- IntelliJ IDEA Community Edition ou sua IDE favorita
 
 ##
 
