@@ -28,20 +28,25 @@ Spring (Spring Boot, Spring Cloud Streams).
 
 ![Arquitetura](https://github.com/Paucinha/assets/blob/master/arquitetura.png?raw=true)
 
-
-
-
 (Microsserviços, Spring, Apache Kafka, Apache Avro, Schema Registry)
 
+# Tecnologias utilizadas
+## BackEnd
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Gradle
+- Banco de dados: Postgresql
+- IntelliJ
 
+## Front end
+- HTML / CSS / JS
+- Bootstrap
 
+# Como executar o projeto
 
-
-
-
-
-
-
+## Back end
+Pré-requisitos: Java 11
 
 ##
 
@@ -50,3 +55,5 @@ Projeto desenvolvido durante o Bootcamp Capgemini Fullstack Java and Angular, fo
 ##
 
 By Paucinha!!!
+
+https://www.linkedin.com/in/paucia-lisboa/
