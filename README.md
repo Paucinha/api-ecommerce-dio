@@ -8,6 +8,30 @@ Neste projeto prático iremos desenvolver uma solução de e-commerce com a arqu
 Apache Kafka e garantir a compatibilidade entre da comunicação dos microsserviços com Schema Registry. Para isso, programaremos em Java utilizando a stack do 
 Spring (Spring Boot, Spring Cloud Streams).
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+  <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />  
+</div>
+
+## Como desenvolver um e-commerce com arquitetura de microsserviços.
+
+### Dominios do Ecommerce
+
+![dominios](https://github.com/Paucinha/assets/blob/master/dominios.png?raw=true) 
+
+### Arquitetura checkout
+
+![Arquitetura 1](https://github.com/Paucinha/assets/blob/master/arquitetura1.png?raw=true)
+
+![Arquitetura](https://github.com/Paucinha/assets/blob/master/arquitetura.png?raw=true)
+
+
+
+
+(Microsserviços, Spring, Apache Kafka, Apache Avro, Schema Registry)
 
 
 
