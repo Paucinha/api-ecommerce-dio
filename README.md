@@ -1,4 +1,4 @@
-# Solução E-commerce com Microsserviços em Java
+# Criando uma Solução E-commerce com Microsserviços em Java
 
 ![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
 
