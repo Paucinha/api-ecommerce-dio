@@ -10,7 +10,7 @@ Spring (Spring Boot, Spring Cloud Streams).
 
 Back-End | Avançado 
 
-Kafka | Spring Framework| Java| Git
+Kafka | Spring Framework | Java| Git
 
 <div style="display: inline_block"><br>
   <img align="center" alt="kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
